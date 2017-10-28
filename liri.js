@@ -25,6 +25,7 @@ var movieSearch = process.argv[3];
 //write an if/else condition to run the functions written whenever the command condition equals the input given
 
 
+
 //Create a function to hold the api call to twitter
 function myTweets() {
 
